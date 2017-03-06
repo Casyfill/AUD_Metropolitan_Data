@@ -1,5 +1,7 @@
 # AUD_Metropolitan_Data
 
+[![Join the chat at https://gitter.im/AUD_Metropolitan_Data/Lobby](https://badges.gitter.im/AUD_Metropolitan_Data/Lobby.svg)](https://gitter.im/AUD_Metropolitan_Data/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Spring 2017
 
 ## Structure
