@@ -24,6 +24,11 @@ Spring 2017
 - [Short History Of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
 - [Github for Noobs](https://www.youtube.com/watch?v=1h9_cB9mPT8)
 - [Try GitHub](try.github.io)
+- [Linus Torvalds on GIT [video]](https://www.youtube.com/watch?v=4XpnKHJAok8)
+
+Also:
+
+![XKCD GIT](https://imgs.xkcd.com/comics/git.png)
 
 ## Python Tutorials
 
