@@ -63,6 +63,7 @@ This works perfectly for paths as well. try to write with `cd ../`  and press TA
 
 `*`, or wildcard, represent "anything" in any UNIX path. for example, you can try `cd ~/*/` and press tab - it will show ALL the folders within two levels down from the root. You can use the same for filenames, like `ls -l *.ai`, that will show info for all Adobe Illustrator files, or `rm *.txt` to remove ALL the .txt files in the folder
 
+Funny fact: In the ANCII table every char has its number. Number for asterics is `42`. That is one of the explanations for the answer computer gave in `Hitchhiker's guide to Galaxy`: Purpose of Life is * [whatever you want it to be].
 
 ### 3. Bash_profile
 You can store your variables (called Environment variables) and name your custom functions in the hidden file `~/.bash_profile`. Every time you reboot your system or run `source ~/.bash_profile` system will "learn" those functions and variables. This way you can create a comfortable set of personalized tools (for example, text substitition of `icons` on the desktop). You can open and edit this file with nano:
