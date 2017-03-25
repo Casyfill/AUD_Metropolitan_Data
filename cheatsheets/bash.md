@@ -34,9 +34,9 @@ Also, note that Bash gives you access to many third-party [other] programs, such
 - `tail file` - similar to head, bit shows last lines.
 - `ln -s [source] [link name]` - creates symbolic link (think: icon) for the file that stays somewhere else. All systems will think it is here as well. Works for folders as well.
 - `echo text` - print something to the command line.
-- `gresp` - filter incoming (through pipe) text and keep only matching lines. For example:
-	- `pip freeze | gresp "geopandas"` gets list of all packages installed through `pip` , then filters to those where we have `geopandas` text presented.
-	- `ls -l | gresp "2017"` shows only files/folders within given folder with `2017` in the name   
+- `grep` - filter incoming (through pipe) text and keep only matching lines. For example:
+	- `pip freeze | grep "geopandas"` gets list of all packages installed through `pip` , then filters to those where we have `geopandas` text presented.
+	- `ls -l | grep "2017"` shows only files/folders within given folder with `2017` in the name   
 
 ## Also
 
