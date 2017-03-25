@@ -46,6 +46,8 @@ Also, note that Bash gives you access to many third-party [other] programs, such
 - `git add .` adds all new files / changes to the repository, ready to commit
 - `git status` shows current status of the repo
 - `git history` shows history of commits
+- `git commit -m "My Message"` creates a commit (savepoint)
+- `git push` sends last commit to the github repository
 
 ## Ticks and Tricks
 
