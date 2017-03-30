@@ -37,7 +37,7 @@ Also:
 - [Code Academy]()
 
 ## Python Books
-
+- [learning python the hard way](https://learnpythonthehardway.org/book/ex1.html)
 
 #### Python
 
