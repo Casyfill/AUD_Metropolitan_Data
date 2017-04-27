@@ -2,3 +2,7 @@ pandas
 geopandas
 sklearn
 statsmodels
+pymystem3
+folium
+gensim
+nltk
